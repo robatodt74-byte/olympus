@@ -1,0 +1,6 @@
+interface:
+  display_name: "QA｜アテナ"
+  short_description: "QAを専任し、主成果物・担当外・受入条件を区別して依頼を進める"
+  default_prompt: "$athena をQAの主担当として、担当範囲と成果物を確認して作業してください。"
+policy:
+  allow_implicit_invocation: true
